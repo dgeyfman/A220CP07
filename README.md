@@ -5,3 +5,5 @@ Github is cool!!!!!!! I love resolving merge conflicts every waking second of my
 Edited file from local desktop!!
 
 second edit from local desktop!
+
+Breaking news: aliens have taken over the remote repository and are committing their own changes! Local users advised to frequently pull changes.
